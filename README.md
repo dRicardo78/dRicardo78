@@ -18,14 +18,10 @@
 <!--- estadisticas -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dRicardo78&theme=dark&show_icons=true&count_private=true" />
 <!--- estudiantePC -->
-<img align="right" alt="100" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" />
+<img align="right" alt="100" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ricardo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dRicardo78&theme=dark&hide_border=false" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dRicardo78&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
 <!--- Languages -->
  ## 🔥 Languages i'm learning:
@@ -42,14 +38,20 @@
     </a> 
 </p>
 
+<!--- Snake -->
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
+<!--- Dinosaurio -->
+![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
 
-
-<!--- Luffy -->
+<!--- Luffy 
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
 </p>
-
+-->
 
 
 
