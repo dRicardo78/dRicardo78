@@ -5,21 +5,20 @@
   <img alt="Earth" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/earth.gif" width="24px"/>
 </h2>
 
-<!--- About Me -->
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
-                width="28" /> What I currently do</h2></summary>
+<!--- What I currently do -->
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" width="28" /> What I currently do</h2>
 
 - 🔭 I'm working on secret projects.
 - 🌱 I'm currently learning Eclipse and Oracle.
 - 👯 I'm looking to collaborate on software development projects.
 - 🤔 I'm looking for help with JavaFX.
 - 💬 I'm interested in data processing, cybersecurity, and any technology topic.
+<br> 
   
-<!--- estudiantePC -->
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
 <!--- estadisticas -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dRicardo78&theme=dark&show_icons=true&count_private=true" />
+<!--- estudiantePC -->
+<img align="right" alt="100" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" />
 <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ricardo streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dRicardo78&theme=dark&hide_border=false" />
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dRicardo78&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 
